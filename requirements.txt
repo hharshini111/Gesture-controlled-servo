@@ -1,0 +1,15 @@
+Software
+
+Python v 3.94
+    opencv-python 4.13.0.92
+    mediapipe 0.10.32
+    numpy 2.2.6
+    pyfirmata 1.1.0
+Arduino IDE
+    Standard Pyfirmata(upload to board)
+
+Hardware
+Arduino Uno 
+Servo Motor
+Jumper wires
+USB cable
